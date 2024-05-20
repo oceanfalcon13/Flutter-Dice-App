@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/coin_flip/BuildConfig.java
+ com.example.coin_flip.BuildConfig

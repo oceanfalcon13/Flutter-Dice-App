@@ -1,0 +1,4 @@
+#Mon May 20 11:44:03 PDT 2024
+base.0=C\:\\Users\\admin\\AndroidStudioProjects\\Flutter-Dice-App\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
