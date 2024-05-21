@@ -1,4 +1,4 @@
-# coin_flip
+# Dice Roller
 
 A new Flutter application.
 
